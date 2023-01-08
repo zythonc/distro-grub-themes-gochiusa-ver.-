@@ -7,8 +7,7 @@ A pack of GRUB2 themes for different Linux distributions and OSs.<br/>
 It aims to replace the default GRUB look, with a nice and colorful theme.<br/>
 I'm a huge fan of "Gochuumon wa usagi desu ka?".<br/>
 **BUT I'M LAZY**<br/>
-So I created a fork and modified the background image.
-
+So I created a fork and modified it.
 ## Get started
 
 Documentation is available at [k1ng.dev/distro-grub-themes](https://k1ng.dev/distro-grub-themes).  
